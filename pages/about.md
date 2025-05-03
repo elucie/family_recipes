@@ -22,4 +22,4 @@ Cooking, baking, and passing down recipes has been a strong tradition in my fami
 - breakfasts
 - and more! 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)! 
+For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
